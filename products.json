@@ -1,14 +1,14 @@
 [
   {
-    "id": 1,
-    "title": "Vintage Denim Jacket",
-    "category": "Clothing",
-    "price": 18500,
-    "condition": "Excellent condition",
-    "size": "M",
-    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=85",
-    "alt": "Blue vintage denim jacket"
-  },
+  "id": 1,
+  "title": "Royal Blue Sequined Lace Tulle Party Dress",
+  "category": "Clothing",
+  "price": 12000,
+  "condition": "Excellent condition",
+  "size": "6-8 Years",
+  "image": "blue-small-kid.jpeg",
+  "alt": "Girl wearing a royal blue sequined lace tulle party dress with a waist bow"
+},
   {
     "id": 2,
     "title": "Classic Oxford Shirt",
@@ -80,15 +80,15 @@
     "alt": "Durable canvas backpack"
   },
   {
-    "id": 9,
-    "title": "Mini Chain Shoulder Bag",
-    "category": "Bags",
-    "price": 16000,
-    "condition": "Like new",
-    "size": "One size",
-    "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?auto=format&fit=crop&w=900&q=85",
-    "alt": "Mini shoulder bag with chain strap"
-  },
+  "id": 9,
+  "title": "Strapless Satin Cowl Back Mini Dress",
+  "category": "Clothing",
+  "price": 12000,
+  "condition": "Brand new",
+  "size": "Medium",
+  "image": "./purple-dress.jpeg",
+  "alt": "Model wearing a purple strapless satin mini dress with cowl back"
+},
   {
     "id": 10,
     "title": "Sculptural Ceramic Vase",
