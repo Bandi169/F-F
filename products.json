@@ -11,74 +11,73 @@
   },
   {
     "id": 2,
-    "title": "Classic Oxford Shirt",
-    "category": "Clothing",
-    "price": 9500,
-    "condition": "Very good condition",
-    "size": "L",
-    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=85",
-    "alt": "Classic button-up Oxford shirt"
+    "title": "Casabona 6-Inch Desk & Clip Fan (Pack of 2)",
+    "category": "Appliances",
+    "price": 15000,
+    "condition": "Brand New",
+    "size": "6-Inch",
+    "image": "Clip fan.jpeg",
+    "alt": "Two boxed Casabona 6-inch 3-in-1 black desk and clip fans"
+},
+  {
+  "id": 3,
+  "title": "Prepworks 10-Piece Multi-Function Silicone Lid Set",
+  "category": "Appliances",
+  "price": 30000,
+  "condition": "New in box",
+  "size": "Assorted Sizes",
+  "image": "Silicone Lid set.jpeg",
+  "alt": "Prepworks 10-piece multi-function silicone lid set box featuring colorful flower-patterned stretch covers"
+},
+  {"id": 4,
+    "title": "ION PICS 2 SD Photo, Slide, and Film Scanner in Box",
+    "category": "Appliances",
+    "price": 150000,
+    "condition": "New",
+    "size": "Fits 5x7, 4x6, 3x5, Slides, 35mm Film",
+    "image": "Teleprompter.jpeg",
+    "alt": "Retail packaging box for the ION PICS 2 SD photo and film scanner, showing product details and compatibility."
   },
   {
-    "id": 3,
-    "title": "Retro Knit Cardigan",
-    "category": "Clothing",
-    "price": 12500,
-    "condition": "Excellent condition",
-    "size": "S / M",
-    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85",
-    "alt": "Soft retro knit cardigan"
-  },
-  {
-    "id": 4,
-    "title": "Leather Court Sneakers",
-    "category": "Shoes",
-    "price": 22000,
-    "condition": "Lightly worn",
-    "size": "EU 42",
-    "image": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=900&q=85",
-    "alt": "Pair of white leather sneakers"
-  },
-  {
-    "id": 5,
-    "title": "Statement Red Trainers",
-    "category": "Shoes",
-    "price": 24500,
-    "condition": "Excellent condition",
-    "size": "EU 40",
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
-    "alt": "Bright red statement trainers"
-  },
+  "id": 5,
+  "title": "Arlo Certified Refurbished Wired Video Doorbell - White",
+  "category": "Appliances",
+  "price": 100000,
+  "condition": "Certified Refurbished",
+  "size": "N/A",
+  "image": "Doorbell.jpeg",
+  "alt": "Front and reverse view of the white and black Arlo wired video doorbell in its green certified refurbished packaging, showing key features like HD video, night vision, and 180° view angle."
+},
   {
     "id": 6,
-    "title": "Minimal Suede Loafers",
-    "category": "Shoes",
-    "price": 19800,
-    "condition": "Very good condition",
-    "size": "EU 43",
-    "image": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?auto=format&fit=crop&w=900&q=85",
-    "alt": "Minimal suede loafers"
-  },
+    "title": "Way to Celebrate 9-Piece Glass Votive Candle Holders",
+    "category": "Home Decor",
+    "price": 30000,
+    "condition": "Brand New",
+    "size": "2.17 in x 2.56 in x 2.05 in",
+    "image": "Votive Candle.jpeg",
+    "alt": "Box set of 9 clear ribbed glass votive candle holders for tea lights"
+},
   {
     "id": 7,
-    "title": "Everyday Leather Tote",
-    "category": "Bags",
-    "price": 17500,
-    "condition": "Excellent condition",
-    "size": "One size",
-    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=85",
-    "alt": "Structured leather tote bag"
-  },
-  {
+    "title": "Hot Wheels Race Zone 100 Car Storage Case",
+    "category": "Kids",
+    "price": 20000,
+    "condition": "Used - Good",
+    "size": "Holds 100 Cars",
+    "image": "Hot  wheels.jpeg",
+    "alt": "Black Hot Wheels Race Zone carrying case filled with assorted die-cast toy cars"
+},
+ {
     "id": 8,
-    "title": "Utility Canvas Backpack",
-    "category": "Bags",
-    "price": 14500,
-    "condition": "Very good condition",
-    "size": "One size",
-    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
-    "alt": "Durable canvas backpack"
-  },
+    "title": "RBX Core Strengthening Ab Wheel",
+    "category": "gadgets",
+    "price": 15000,
+    "condition": "New in box",
+    "size": "Standard",
+    "image": "Ab Wheel.jpeg",
+    "alt": "Box packaging for RBX Core Strengthening Ab Wheel featuring a man demonstrating an ab rollout exercise"
+},
   {
     "id": 9,
     "title": "Strapless Satin Cowl Back Mini Dress",
@@ -91,34 +90,34 @@
   },
   {
     "id": 10,
-    "title": "Sculptural Ceramic Vase",
-    "category": "Home Decor",
-    "price": 11500,
-    "condition": "Excellent condition",
-    "size": "28 cm",
-    "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=900&q=85",
-    "alt": "Sculptural ceramic vase in a styled room"
-  },
+    "title": "True Living 4 Inch High Velocity USB Fan - Pink",
+    "category": "Appliances",
+    "price": 15000,
+    "condition": "Brand New",
+    "size": "4 Inch",
+    "image": "USb Fan.jpeg",
+    "alt": "Pink True Living 4-inch high velocity metal USB desk fan next to its original box"
+},
   {
     "id": 11,
-    "title": "Woven Accent Basket",
-    "category": "Home Decor",
-    "price": 8500,
-    "condition": "Very good condition",
+    "title": "Portable Bluetooth Party Speaker with LED Ring Lights",
+    "category": "gadgets",
+    "price": 50000,
+    "condition": "Excellent condition",
     "size": "Medium",
-    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=85",
-    "alt": "Woven decorative storage basket"
-  },
+    "image": "Party speaker.jpeg",
+    "alt": "Black portable Bluetooth party speaker featuring colorful RGB LED ring lights and a shoulder strap"
+},
   {
     "id": 12,
-    "title": "Mid-Century Table Lamp",
-    "category": "Home Decor",
-    "price": 15000,
-    "condition": "Tested and working",
-    "size": "42 cm",
-    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85",
-    "alt": "Mid-century style table lamp"
-  },
+    "title": "Assorted Cereal Bundle (Kellogg's Cocoa Loops & Cinnamon Cheerios Protein)",
+    "category": "Kids",
+    "price": 12000,
+    "condition": "Brand New",
+    "size": "4 Boxes",
+    "image": "Cocoa loops.jpeg",
+    "alt": "Four cereal boxes lined up including two boxes of Kellogg's Cocoa Loops and two boxes of General Mills Cinnamon Cheerios Protein"
+},
   {
   "id": 13,
   "title": "Sunbeam Electric Wooden Bucket Ice Cream Maker",
@@ -138,5 +137,45 @@
   "size": "N/A",
   "image": "juicer.jpeg",
   "alt": "A WHALL brand silver and black cold press juicer machine on a white background, with two clear plastic juice and pulp containers."
+},
+{
+  "id": 15, 
+  "title": "AOU Stainless Round Dispenser - Large Capacity Cold Beverage",
+  "category": "Appliances",
+  "price": 20000,
+  "condition": "New",
+  "size": "5 Gallons (640 oz)",
+  "image": "Round dispenser.jpeg",
+  "alt": "AOU Stainless Round Dispenser, 5-gallon capacity, shown with its original retail packaging in a kitchen setting"
+},
+{
+  "id": 16,
+  "title": "Serta iComfort Sheet Set - Tencel Lyocell (Beige)",
+  "category": "Home Decor",
+  "price":25000,
+  "condition": "New",
+  "size": "N/A",
+  "image": "Sheet set.jpeg",
+  "alt": "Two beige Serta iComfort sheet sets in their original plastic packaging, stacked against a black background."
+},
+{
+  "id": 17,
+  "title": "Desview P15 Portable Teleprompter Kit",
+  "category": "Appliances",
+  "price": 400000,
+  "condition": "New in Open Box (Slightly Negotiable)",
+  "size": "N/A",
+  "image": "Teleprompter.jpeg",
+  "alt": "A Desview P15 Portable Teleprompter kit showing the retail box with an illustration and the product inside an open black carrying case, placed on a sunlit marble surface next to a potted plant."
+},
+{
+    "id": 18,
+    "title": "Vintage Electrolux UltraLux Canister Vacuum Cleaner",
+    "category": "Appliances",
+    "price": 30000,
+    "condition": "Used - Good",
+    "size": "Standard",
+    "image": "Vaccum.jpeg",
+    "alt": "Vintage blue and grey Electrolux UltraLux canister vacuum cleaner with hose, power nozzle, and attachments"
 }
 ]
