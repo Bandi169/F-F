@@ -1,14 +1,14 @@
 "use strict";
 
 const PRODUCTS_URL = "./products.json";
-const WHATSAPP_PHONE = "2348109933923";
+const WHATSAPP_PHONE = "2348102722611";
 const CATEGORY_ORDER = [
   "All",
   "Clothing",
   "Shoes",
   "Bags",
   "Home Decor",
-  "Kid",
+  "Kids",
   "Appliances",
 ];
 
