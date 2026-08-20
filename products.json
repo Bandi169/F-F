@@ -177,5 +177,76 @@
     "size": "Standard",
     "image": "Vaccum.jpeg",
     "alt": "Vintage blue and grey Electrolux UltraLux canister vacuum cleaner with hose, power nozzle, and attachments"
+},
+{
+    "id": 19,
+    "title": "Classic Black Patent Leather Red Bottom High Heels",
+    "category": "shoes",
+    "price": 15000,
+    "condition": "Brand New",
+    "size": "EU 41",
+    "image": "red high heels.jpeg",
+    "alt": "Pair of black patent leather pointed-toe high heel pumps with red soles, size 41"
+},
+{
+    "id": 20,
+    "title": "Black Tactical Style High-Heeled Ankle Boots",
+    "category": "shoes",
+    "price": 20000,
+    "condition": "Excellent condition",
+    "size": "39/40",
+    "image": "Tactical high heels.jpeg",
+    "alt": "Pair of black high-heeled lace-up ankle boots featuring side zippers, buckle straps, and studded lug soles"
+},
+{
+    "id": 21,
+    "title": "Black Leather Pointed-Toe Heeled Ankle Boots",
+    "category": "shoes",
+    "price": 20000,
+    "condition": "Excellent condition",
+    "size": "40/41",
+    "image": "black leather heel.jpeg",
+    "alt": "A gloved hand holding a pair of black leather pointed-toe high-heeled ankle boots with side zippers"
+},
+{
+    "id": 22,
+    "title": "Black Patent Leather Square-Toe Heeled Ankle Boots",
+    "category": "shoes",
+    "price": 20000,
+    "condition": "Excellent condition",
+    "size": "39",
+    "image": "suqare toe heel.jpeg",
+    "alt": "Pair of glossy black patent leather square-toe ankle boots with side zippers and block heels"
+},
+{
+    "id": 22,
+    "title": "Kelly & Katie Woven Pointed-Toe Ballet Flats",
+    "category": "shoes",
+    "price": 8000,
+    "condition": "Excellent condition",
+    "size": "39",
+    "image": "pointed flats.jpeg",
+    "alt": "Pair of Kelly & Katie beige and white woven chevron-patterned pointed-toe ballet flats"
+},
+{
+    "id": 23,
+    "title": "Tan Suede Ankle Boots with Leopard Print Faux Fur Collar",
+    "category": "shoes",
+    "price": 7000,
+    "condition": "Excellent condition",
+    "size": "31/32",
+    "image": "suede ankle boots.jpeg",
+    "alt": "Pair of tan suede winter ankle boots with leopard print faux fur trim and gold ring detail"
+},
+{
+    "id": 24,
+    "title": "GUESS Off-White Buckled Combat Boots with Gold Hardware",
+    "category": "shoes",
+    "price": 40000,
+    "condition": "Brand New",
+    "size": "38/39",
+    "image": "Combats boots.jpeg",
+    "alt": "Pair of off-white GUESS lace-up combat boots with thick black lug soles, side buckles, and gold logo hardware inside original box"
 }
+
 ]
