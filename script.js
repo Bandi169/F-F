@@ -2,6 +2,15 @@
 
 const PRODUCTS_URL = "./products.json";
 const WHATSAPP_PHONE = "2348109933923";
+const CATEGORY_ORDER = [
+  "All",
+  "Clothing",
+  "Shoes",
+  "Bags",
+  "Home Decor",
+  "Kid",
+  "Appliances",
+];
 
 const state = {
   products: [],
@@ -36,7 +45,12 @@ function createWhatsAppUrl(productName, price) {
 }
 
 function getCategories() {
-  return ["All", ...new Set(state.products.map((product) => product.category))];
+  return [
+    ...new Set([
+      ...CATEGORY_ORDER,
+      ...state.products.map((product) => product.category),
+    ]),
+  ];
 }
 
 function renderCategoryFilters() {
