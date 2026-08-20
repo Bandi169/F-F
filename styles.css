@@ -247,6 +247,38 @@ a {
   line-height: 1.65;
 }
 
+.negotiable-banner {
+  max-width: 620px;
+  margin: 0 0 2rem;
+  padding: 1rem 1.25rem 1.1rem;
+  display: grid;
+  gap: 0.25rem;
+  background: var(--white);
+  border-left: 6px solid var(--green);
+  color: var(--black);
+}
+
+.negotiable-banner__label {
+  color: var(--green);
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.negotiable-banner strong {
+  font-size: clamp(1.2rem, 2.2vw, 1.75rem);
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.negotiable-banner > span:last-child {
+  color: #4d4d4d;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
 .button {
   width: fit-content;
   min-height: 52px;
