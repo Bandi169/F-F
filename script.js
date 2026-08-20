@@ -10,6 +10,7 @@ const CATEGORY_ORDER = [
   "Home Decor",
   "Kids",
   "Appliances",
+  "Gadgets",
 ];
 
 const state = {
