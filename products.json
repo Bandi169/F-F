@@ -257,6 +257,86 @@
   "size": "EU 32/ US 7.5",
   "image": "Suede with tassel bows.jpeg",
   "alt": "Pair of vibrant hot pink suede UGG-style ankle boots with decorative tassel bows"
+},
+{
+    "id": 27,
+    "title": "Black Leather Combat Boots with Glitter Straps",
+    "category": "shoes",
+    "price": 10000,
+    "condition": "Excellent condition",
+    "size": "31/32",
+    "image": "Glitter Straps.jpeg",
+    "alt": "Pair of black leather combat boots featuring double glitter buckle straps and thick soles"
+},
+{
+    "id": 28,
+    "title": "Silver Glitter Strappy High Heel Sandals",
+    "category": "shoes",
+    "price": 18000,
+    "condition": "Excellent condition",
+    "size": "38",
+    "image": "Heel sandals.jpeg",
+    "alt": "Woman wearing silver glitter cage-style high heel sandals with ankle buckle straps"
+},
+{
+    "id": 29,
+    "title": "Black Suede Knee-High Boots with Bow Details",
+    "category": "shoes",
+    "price": 15000,
+    "condition": "Excellent condition",
+    "size": "41/42",
+    "image": "Bow details.jpeg",
+    "alt": "Pair of tall black suede knee-high boots featuring stacked heel and decorative side bows"
+},
+{
+    "id": 30,
+    "title": "Galaxy Print Ankle Combat Boots",
+    "category": "shoes",
+    "price": 10000,
+    "condition": "Excellent condition",
+    "size": "33",
+    "image": "Galaxy combat boots.jpeg",
+    "alt": "Pair of vibrant pink, blue, and purple galaxy print lace-up combat boots with side zippers"
+},
+{
+    "id": 31,
+    "title": "Woven Straw Square Toe Clear Block Heel Mules",
+    "category": "shoes",
+    "price": 18000,
+    "condition": "Excellent condition",
+    "size": "41",
+    "image": "Heels mules.jpeg",
+    "alt": "Pair of beige woven straw open-toe mules with clear sculpted block heels"
+},
+{
+    "id": 32,
+    "title": "Black Leather Lace-Up Knee-High Combat Boots",
+    "category": "shoes",
+    "price": 20000,
+    "condition": "Excellent condition",
+    "size": "39",
+    "image": "black-laceup-tall-boots.jpeg",
+    "alt": "Pair of tall black leather lace-up combat boots with side zippers and fold-over cuff details"
+},
+{
+  "id": 33,
+  "title": "Dell Latitude Laptop - Metallic Silver/Gray",
+  "category": "gadgets",
+  "price": 150000,
+  "condition": "Used - Good condition",
+  "size": "15.6-inch",
+  "image": "dell-latitude-collage.jpeg",
+  "alt": "Two-panel split collage showing a closed silver Dell laptop lid on wooden surface and an open view displaying Windows 11 desktop background"
+},
+{
+  "id": 34,
+  "title": "Black Fur-Lined Suede Ankle Boots with Zipper",
+  "category": "shoes",
+  "price": 6000,
+  "condition": "Excellent condition",
+  "size": "32/33",
+  "image": "black-fur-ankle-boots.jpeg",
+  "alt": "Pair of black suede ankle boots with black faux fur trim around the collar and a side zipper"
 }
 
 ]
