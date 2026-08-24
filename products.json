@@ -71,7 +71,7 @@
  {
     "id": 8,
     "title": "RBX Core Strengthening Ab Wheel",
-    "category": "gadgets",
+    "category": "Gadgets",
     "price": 15000,
     "condition": "New in box",
     "size": "Standard",
@@ -101,7 +101,7 @@
   {
     "id": 11,
     "title": "Portable Bluetooth Party Speaker with LED Ring Lights",
-    "category": "gadgets",
+    "category": "Gadgets",
     "price": 50000,
     "condition": "Excellent condition",
     "size": "Medium",
@@ -181,7 +181,7 @@
 {
     "id": 19,
     "title": "Classic Black Patent Leather Red Bottom High Heels",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 15000,
     "condition": "Brand New",
     "size": "EU 41",
@@ -191,7 +191,7 @@
 {
     "id": 20,
     "title": "Black Tactical Style High-Heeled Ankle Boots",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 20000,
     "condition": "Excellent condition",
     "size": "39/40",
@@ -201,7 +201,7 @@
 {
     "id": 21,
     "title": "Black Leather Pointed-Toe Heeled Ankle Boots",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 20000,
     "condition": "Excellent condition",
     "size": "40/41",
@@ -211,7 +211,7 @@
 {
     "id": 22,
     "title": "Black Patent Leather Square-Toe Heeled Ankle Boots",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 20000,
     "condition": "Excellent condition",
     "size": "39",
@@ -221,7 +221,7 @@
 {
     "id": 23,
     "title": "Kelly & Katie Woven Pointed-Toe Ballet Flats",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 8000,
     "condition": "Excellent condition",
     "size": "39",
@@ -231,7 +231,7 @@
 {
     "id": 24,
     "title": "Tan Suede Ankle Boots with Leopard Print Faux Fur Collar",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 7000,
     "condition": "Excellent condition",
     "size": "31/32",
@@ -241,7 +241,7 @@
 {
     "id": 25,
     "title": "GUESS Off-White Buckled Combat Boots with Gold Hardware",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 40000,
     "condition": "Brand New",
     "size": "38/39",
@@ -251,7 +251,7 @@
 {
   "id": 26,
   "title": "Pink Suede Ankle Boots with Tassel Bows",
-  "category": "shoes",
+  "category": "Shoes",
   "price": 6000,
   "condition": "Brand New",
   "size": "EU 32/ US 7.5",
@@ -261,7 +261,7 @@
 {
     "id": 27,
     "title": "Black Leather Combat Boots with Glitter Straps",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 10000,
     "condition": "Excellent condition",
     "size": "31/32",
@@ -271,7 +271,7 @@
 {
     "id": 28,
     "title": "Silver Glitter Strappy High Heel Sandals",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 18000,
     "condition": "Excellent condition",
     "size": "38",
@@ -281,7 +281,7 @@
 {
     "id": 29,
     "title": "Black Suede Knee-High Boots with Bow Details",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 15000,
     "condition": "Excellent condition",
     "size": "41/42",
@@ -291,7 +291,7 @@
 {
     "id": 30,
     "title": "Galaxy Print Ankle Combat Boots",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 10000,
     "condition": "Excellent condition",
     "size": "33",
@@ -301,7 +301,7 @@
 {
     "id": 31,
     "title": "Woven Straw Square Toe Clear Block Heel Mules",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 18000,
     "condition": "Excellent condition",
     "size": "41",
@@ -311,7 +311,7 @@
 {
     "id": 32,
     "title": "Black Leather Lace-Up Knee-High Combat Boots",
-    "category": "shoes",
+    "category": "Shoes",
     "price": 20000,
     "condition": "Excellent condition",
     "size": "39",
@@ -321,7 +321,7 @@
 {
   "id": 33,
   "title": "Dell Latitude Laptop - Metallic Silver/Gray",
-  "category": "gadgets",
+  "category": "Gadgets",
   "price": 150000,
   "condition": "Used - Good condition",
   "size": "15.6-inch",
@@ -331,7 +331,7 @@
 {
   "id": 34,
   "title": "Black Fur-Lined Suede Ankle Boots with Zipper",
-  "category": "shoes",
+  "category": "Shoes",
   "price": 6000,
   "condition": "Excellent condition",
   "size": "32/33",
