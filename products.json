@@ -367,6 +367,16 @@
   "size": "M",
   "image": "emerald-green-pleated-dress.jpeg",
   "alt": "Woman wearing an emerald green long-sleeve pleated midi dress with a tied waist belt"
+},
+{
+  "id": 38,
+  "title": "Double Bathroom Tissue Box",
+  "category": "Home Decor",
+  "price": 18000,
+  "condition": "Brand New",
+  "size": "Medium",
+  "image": "double-bathroom-tissue-box.jpeg",
+  "alt": "White and grey double-layer wall-mounted bathroom tissue box with top storage compartment and bottom drawer"
 }
 
 ]
