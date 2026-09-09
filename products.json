@@ -99,16 +99,6 @@
     "alt": "Pink True Living 4-inch high velocity metal USB desk fan next to its original box"
 },
   {
-    "id": 11,
-    "title": "Portable Bluetooth Party Speaker with LED Ring Lights",
-    "category": "Gadgets",
-    "price": 50000,
-    "condition": "Excellent condition",
-    "size": "Medium",
-    "image": "Party speaker.jpeg",
-    "alt": "Black portable Bluetooth party speaker featuring colorful RGB LED ring lights and a shoulder strap"
-},
-  {
     "id": 12,
     "title": "Assorted Cereal Bundle (Kellogg's Cocoa Loops & Cinnamon Cheerios Protein)",
     "category": "Kids",
@@ -217,16 +207,6 @@
     "size": "39",
     "image": "suqare toe heel.jpeg",
     "alt": "Pair of glossy black patent leather square-toe ankle boots with side zippers and block heels"
-},
-{
-    "id": 23,
-    "title": "Kelly & Katie Woven Pointed-Toe Ballet Flats",
-    "category": "Shoes",
-    "price": 8000,
-    "condition": "Excellent condition",
-    "size": "39",
-    "image": "pointed flats.jpeg",
-    "alt": "Pair of Kelly & Katie beige and white woven chevron-patterned pointed-toe ballet flats"
 },
 {
     "id": 24,
@@ -339,16 +319,6 @@
   "alt": "Pair of black suede ankle boots with black faux fur trim around the collar and a side zipper"
 },
 {
-  "id": 35,
-  "title": "Assorted Plush Stuffed Animals Collection (Contact for price)",
-  "category": "Kids",
-  "price": 0,
-  "condition": "Excellent condition",
-  "size": "Various Sizes",
-  "image": "plush-animals-group.jpeg",
-  "alt": "A group of plush stuffed animals including a teddy bear, pink alien, toucan, dog in Santa suit, Care Bear, cow, tie-dye cat, lion, panda, and monkey sitting together on a faux fur surface"
-},
-{
   "id": 36,
   "title": "Vortex Blue Android Tablet",
   "category": "Gadgets",
@@ -357,16 +327,6 @@
   "size": "10 Inch",
   "image": "vortex-blue-tablet.jpeg",
   "alt": "Front and back views of a dark blue Vortex Android tablet sitting on a desk"
-},
-{
-  "id": 37,
-  "title": "Emerald Green Long-Sleeve Pleated Midi Dress",
-  "category": "Clothing",
-  "price": 12000,
-  "condition": "Excellent condition",
-  "size": "M",
-  "image": "emerald-green-pleated-dress.jpeg",
-  "alt": "Woman wearing an emerald green long-sleeve pleated midi dress with a tied waist belt"
 },
 {
   "id": 38,
